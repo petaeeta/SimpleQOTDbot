@@ -10,3 +10,4 @@ TwitterBot:
   - Learning the usage of API's
   - Learning GIT-workflow
   - Learning the use of keys, and learning ways to store keys more securely.
+  - Using external libraries, and adding them in a requirements.txt -file
