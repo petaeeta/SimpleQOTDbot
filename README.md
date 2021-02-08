@@ -1,8 +1,6 @@
 # DEAR VIEWER
-
 # OwnProjects
-This repo consists of my own small projects. Everything in this repo is WIP, and not meant for public distribution. This is my own playground
-for testing, using and archiving projects. 
+This repo consists of my own small projects. Everything in this repo is WIP, and not meant for public distribution, only for recruiters and other selected individuals.
 
 Here's a list of things I've learned while working on projects that have ended up here. Learning reports of sorts.
 
