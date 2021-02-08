@@ -1,13 +1,8 @@
-# DEAR VIEWER
-# OwnProjects
-This repo consists of my own small projects. Everything in this repo is WIP, and not meant for public distribution, only for recruiters and other selected individuals.
+This simple QOTD-bot was mainly made for my own educational/-entertainment purposes, but it's open source for your own applications.
 
-Here's a list of things I've learned while working on projects that have ended up here. Learning reports of sorts.
-
-TwitterBot:
-  - More experience with Python
-  - More experience with everyday programming challenges, such as string manipulation, file manipulation etc.
-  - Learning the usage of API's
-  - Learning GIT-workflow
-  - Learning the use of keys, and learning ways to store keys more securely.
-  - Using external libraries, and adding them in a requirements.txt -file
+How to use:
+  1. download python
+  2. import requirements from requirements.txt by running a "pip install -r requirements.txt"
+  3. apply for a twitter developer account
+  4. replace the keys with your own keys in keyexamples.env -file
+  5. run the code
