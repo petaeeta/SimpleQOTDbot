@@ -69,6 +69,8 @@ def main():
                 # which is the max amount of characters allowed by twitter.
                 # if true -> Post tweet, and wait for 24 hours
                 # if false -> Dismiss quote, and start reading the next quote available from the txt-file
+                #
+                # quotes.txt file by default has only quotes under 280-characters
                 if len(nextTweet) <= 280:
                     api.update_status(status=nextTweet)
                     print(nextTweet)
