@@ -83,6 +83,5 @@ def main():
                 concatonatedString = StringIO()
                 nextTweet = ""
                 
-# For executing the program from command line
 if __name__ == "__main__":
     main()
